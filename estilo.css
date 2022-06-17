@@ -1,0 +1,48 @@
+body{
+    background: rgba(49, 49, 243, 0.795);
+    font: normal 15pt sans-serif;
+}
+header{
+    color: white;
+    text-align: center;
+    font: Normal 25px sans-serif;
+    
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    color: white;
+    box-shadow: 3px 3px rgba(104, 96, 96, 0.548);
+}
+div{
+    padding: 7px;
+    color: rgba(0, 0, 0, 0.815);
+}
+div#divpasso{
+    text-align: center;
+}
+input#botaoContar{
+    border-radius: 5px;
+    border-color: rgb(189, 189, 199);
+    background: rgb(15, 71, 224);
+    font: normal 17px sans-serif;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 20%;
+    margin-top: 5px;
+}
+div#res{
+    padding: 5px;
+    font: italic 12px sans-serif;
+    color: black;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
