@@ -40,6 +40,7 @@ div#res{
     padding: 5px;
     font: italic 12px sans-serif;
     color: black;
+    text-align: center;
 }
 footer{
     color: white;
